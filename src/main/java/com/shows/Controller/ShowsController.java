@@ -19,7 +19,7 @@ import com.shows.Service.ShowsService;
 
 
 @RestController
-@RequestMapping("/pet")
+@RequestMapping("shows")
 
 public class ShowsController {
 	
